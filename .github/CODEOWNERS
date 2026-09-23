@@ -1,0 +1,5 @@
+# Test: einziges Konto ist Owner aller Pfade
+/profiles/machines/ @TobiasLante
+/kpis/ @TobiasLante
+/constraints/ @TobiasLante
+/.github/ @TobiasLante
