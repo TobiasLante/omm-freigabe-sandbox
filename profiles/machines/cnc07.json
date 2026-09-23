@@ -1,5 +1,5 @@
 {
   "id": "cnc07",
   "attributes": { "spindleSpeed": { "unit": "rpm" } },
-  "constraints": { "spindleLoad": { "max": 85 } }
+  "constraints": { "spindleLoad": { "max": 86 } }
 }
